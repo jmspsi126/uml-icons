@@ -1,0 +1,37 @@
+{
+  "name": "uml-icons",
+  "version": "2.0.5",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies":{
+    "react": "^15.3.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.6.5",
+    "babel-core": "^6.7.2",
+    "babel-loader": "^6.2.3",
+    "babel-plugin-syntax-decorators": "*",
+    "babel-plugin-transform-decorators": "*",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-es2015": "*",
+    "babel-preset-react": "*",
+    "babel-preset-stage-0": "*",
+    "babel-plugin-syntax-decorators": "*",
+    "babel-plugin-transform-decorators": "*",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-es2015": "*",
+    "babel-preset-react": "*",
+    "babel-preset-stage-0": "*",
+    "glob": "^7.0.3",
+    "pace": "0.0.4",
+    "svgo": "^0.6.1",
+    "svgson": "^1.2.2",
+    "webpack": "^2.1.0-beta.25"
+  }
+}
